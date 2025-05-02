@@ -1,0 +1,6 @@
+NASM, x86-64 Linux
+
+nasm -g -f elf64 <FILE>.asm
+ld -g <FILE>.o
+gdb -q -x gdbscript ./a.out
+
