@@ -1,0 +1,7 @@
+b exit
+display $r9
+
+run
+continue
+quit
+
