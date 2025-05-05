@@ -1,0 +1,7 @@
+b exit
+display $r12
+
+run
+continue
+quit
+
